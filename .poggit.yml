@@ -5,4 +5,5 @@ branches:
 projects:
   CrypticOPFaction:
     path: ""
+    icon: icon.png
 ...
