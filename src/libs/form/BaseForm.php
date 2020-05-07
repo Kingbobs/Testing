@@ -31,15 +31,6 @@ use pocketmine\form\Form;
 /**
  * Base class for a custom form. Forms are serialized to JSON data to be sent to clients.
  */
-abstract class BaseForm implements Form{
-
-	/** @var string */
-	protected $title;
-
-	public function __construct(string $title){
-		$this->title = $title;
-	}
-
 	/**
 	 * Returns the text shown on the form title-bar.
 	 * @return string
