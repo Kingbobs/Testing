@@ -1,4 +1,5 @@
 name: CrypticOPFaction
+author: CrypticDevs, Modifyed_By_NopeNotDark
 main: core\Cryptic
 load: POSTWORLD
 version: "1.0.0"
