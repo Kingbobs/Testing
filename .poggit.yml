@@ -5,4 +5,7 @@ branches:
 projects:
   CrypticOPFaction:
     path: ""
+    icon: icon.png
+    lint:
+        phpstan: false
 ...
