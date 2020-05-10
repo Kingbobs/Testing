@@ -9,8 +9,8 @@ use core\Cryptic;
 use core\CrypticPlayer;
 use core\translation\Translation;
 use core\translation\TranslationException;
-use libs\form\MenuForm;
-use libs\form\MenuOption;
+use dktapps\pmform\MenuForm;
+use dktapps\pmform\MenuOption;
 use pocketmine\Player;
 
 class KitsForm extends MenuForm {
