@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace dktapps\pmforms\element\Input;
+namespace dktapps\pmforms\element;
 
 use pocketmine\form\FormValidationException;
 
