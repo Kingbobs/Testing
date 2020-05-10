@@ -7,9 +7,9 @@ namespace core\gamble\command\forms;
 use core\CrypticPlayer;
 use core\translation\Translation;
 use core\translation\TranslationException;
-use dktapps\pmform\FormIcon;
-use dktapps\pmform\MenuForm;
-use dktapps\pmform\MenuOption;
+use dktapps\pmforms\FormIcon;
+use dktapps\pmforms\MenuForm;
+use dktapps\pmforms\MenuOption;
 use pocketmine\Player;
 use pocketmine\utils\TextFormat;
 
