@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace dktapps\pmforms\CustomFormResponse;
+namespace dktapps\pmforms;
 
 class CustomFormResponse{
 	/** @var array */
