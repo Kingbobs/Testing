@@ -5,6 +5,7 @@ declare(strict_types = 1);
 namespace core\command\forms;
 
 use core\CrypticPlayer;
+use dktapps\pmforms\BaseForm
 use dktapps\pmforms\MenuForm;
 use dktapps\pmforms\MenuOption;
 use pocketmine\Player;
