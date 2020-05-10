@@ -12,10 +12,10 @@ use core\item\types\XPNote;
 use core\CrypticPlayer;
 use core\translation\Translation;
 use core\translation\TranslationException;
-use dktapps\pmform\CustomForm;
-use dktapps\pmform\CustomFormResponse;
-use dktapps\pmform\element\Dropdown;
-use dktapps\pmform\element\Input;
+use dktapps\pmforms\CustomForm;
+use dktapps\pmforms\CustomFormResponse;
+use dktapps\pmforms\element\Dropdown;
+use dktapps\pmforms\element\Input;
 use pocketmine\Player;
 
 class WithdrawForm extends CustomForm {
