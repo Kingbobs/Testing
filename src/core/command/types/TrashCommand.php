@@ -8,7 +8,7 @@ use core\CrypticPlayer;
 use dktapps\pmforms\BaseForm;
 use core\translation\Translation;
 use core\translation\TranslationException;
-use core\libs\muqsit\invmenu\InvMenu;
+use muqsit\invmenu\InvMenu;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\inventory\Inventory;
