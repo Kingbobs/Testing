@@ -5,7 +5,7 @@ namespace core\command\forms;
 use core\CrypticPlayer;
 use core\translation\Translation;
 use core\translation\TranslationException;
-use dktapps\pmform\ModalForm;
+use dktapps\pmforms\ModalForm;
 use pocketmine\level\sound\AnvilUseSound;
 use pocketmine\Player;
 use pocketmine\utils\TextFormat;
