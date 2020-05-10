@@ -5,8 +5,8 @@ declare(strict_types = 1);
 namespace core\command\forms;
 
 use core\CrypticPlayer;
-use libs\form\MenuForm;
-use libs\form\MenuOption;
+use dktapps\pmform\MenuForm;
+use dktapps\pmform\MenuOption;
 use pocketmine\Player;
 
 class QuestMainForm extends MenuForm {
