@@ -7,7 +7,7 @@ use core\item\enchantment\Enchantment;
 use core\item\types\EnchantmentBook;
 use core\item\types\EnchantmentRemover;
 use core\CrypticPlayer;
-use dktapps\pmform\ModalForm;
+use dktapps\pmforms\ModalForm;
 use pocketmine\item\Item;
 use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\Player;
