@@ -4,8 +4,8 @@ namespace core\item\forms;
 
 use core\item\enchantment\Enchantment;
 use core\item\ItemManager;
-use libs\form\MenuForm;
-use libs\form\MenuOption;
+use dktapps\pmforms\MenuForm;
+use dktapps\pmforms\MenuOption;
 use pocketmine\item\Item;
 use pocketmine\level\sound\AnvilBreakSound;
 use pocketmine\Player;
