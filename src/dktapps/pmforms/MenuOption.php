@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace dktapps\pmforms;
+namespace dktapps\pmforms\MenuOption;
 
 /**
  * Represents an option on a MenuForm. The option is shown as a button and may optionally have an image next to it.
