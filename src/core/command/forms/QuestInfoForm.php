@@ -6,8 +6,8 @@ namespace core\command\forms;
 
 use core\Cryptic;
 use core\CrypticPlayer;
-use dktapps\pmform\CustomForm;
-use dktapps\pmform\element\Label;
+use dktapps\pmforms\CustomForm;
+use dktapps\pmforms\element\Label;
 use pocketmine\Player;
 use pocketmine\utils\TextFormat;
 
