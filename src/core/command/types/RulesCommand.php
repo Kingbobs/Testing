@@ -5,6 +5,7 @@ declare(strict_types = 1);
 namespace core\command\types;
 
 use core\command\forms\RulesForm;
+use dktapps\pmforms\BaseForm;
 use core\command\utils\Command;
 use core\CrypticPlayer;
 use core\translation\Translation;
