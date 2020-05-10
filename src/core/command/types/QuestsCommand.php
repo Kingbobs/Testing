@@ -6,6 +6,7 @@ namespace core\command\types;
 
 use core\command\forms\QuestMainForm;
 use core\CrypticPlayer;
+use dktapps\pmforms\BaseForm;
 use core\translation\Translation;
 use core\translation\TranslationException;
 use pocketmine\command\Command;
