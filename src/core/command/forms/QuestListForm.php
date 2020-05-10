@@ -6,8 +6,8 @@ namespace core\command\forms;
 
 use core\Cryptic;
 use core\CrypticPlayer;
-use libs\form\MenuForm;
-use libs\form\MenuOption;
+use dktapps\pmform\MenuForm;
+use dktapps\pmform\MenuOption;
 use pocketmine\Player;
 use pocketmine\utils\TextFormat;
 
