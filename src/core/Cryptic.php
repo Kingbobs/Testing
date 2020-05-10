@@ -35,7 +35,6 @@ use core\tag\TagManager;
 use core\trade\TradeManager;
 use core\update\UpdateManager;
 use core\watchdog\WatchdogManager;
-use core\CrypticPlayer
 use Exception;
 use muqsit\invmenu\InvMenuHandler;
 use pocketmine\inventory\Inventory;
