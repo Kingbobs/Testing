@@ -6,6 +6,7 @@ use core\CrypticPlayer;
 use core\translation\Translation;
 use core\translation\TranslationException;
 use dktapps\pmforms\ModalForm;
+use dktapps\pmforms\BaseForm
 use pocketmine\level\sound\AnvilUseSound;
 use pocketmine\Player;
 use pocketmine\utils\TextFormat;
