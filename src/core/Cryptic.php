@@ -21,7 +21,7 @@ use core\event\EventManager;
 use core\faction\FactionManager;
 use core\gamble\GambleManager;
 use core\item\ItemManager;
-use core\kit\KitException\KitException;
+use core\kit\KitException;
 use core\kit\KitManager;
 use core\level\LevelManager;
 use core\mask\MaskManager;
