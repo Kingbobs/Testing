@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace dktapps\pmforms;
+namespace dktapps\pmforms\MenuForm;
 
 use pocketmine\form\FormValidationException;
 use pocketmine\Player;
