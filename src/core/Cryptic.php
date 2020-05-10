@@ -12,7 +12,7 @@ use core\combat\boss\Boss;
 use core\combat\boss\BossException;
 use core\combat\CombatManager;
 use core\command\CommandManager;
-use core\command\forms\CustomForm
+use core\command\forms\CustomForm;
 use core\command\task\CheckVoteTask;
 use core\crate\CrateManager;
 use core\custompotion\CustomPotionListener;
