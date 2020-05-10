@@ -5,6 +5,7 @@ declare(strict_types = 1);
 namespace core\command\types;
 
 use core\command\forms\CEInfoForm;
+use core\command\forms\CustomForm;
 use core\CrypticPlayer;
 use core\translation\Translation;
 use core\translation\TranslationException;
