@@ -19,7 +19,7 @@ class SpawnWitcherBoss extends Task{
     /** @var int */
     protected $time = 900; // 30 minutes.
     /** @var bool */
-    protected $sentWarning = false;
+    protected $sentWarning = true;
 
     /**
      * @param int $currentTick
