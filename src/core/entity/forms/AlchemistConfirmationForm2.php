@@ -10,7 +10,7 @@ use core\item\types\EnchantmentRemover;
 use core\CrypticPlayer;
 use core\translation\Translation;
 use core\translation\TranslationException;
-use dktapps\pmform\ModalForm;
+use dktapps\pmforms\ModalForm;
 use pocketmine\item\Item;
 use pocketmine\level\sound\AnvilBreakSound;
 use pocketmine\nbt\tag\CompoundTag;
