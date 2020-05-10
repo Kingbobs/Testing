@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace core\command\forms\CustomForm
+namespace core\command\forms\CustomForm;
 
 use core\item\enchantment\Enchantment;
 use core\item\ItemManager;
