@@ -1,6 +1,6 @@
 <?php
 
-namespace core\kit;
+namespace core\kit\KitException;
 
 use Exception;
 
