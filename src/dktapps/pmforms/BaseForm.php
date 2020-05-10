@@ -26,7 +26,7 @@ declare(strict_types=1);
  */
 namespace dktapps\pmforms;
 
-use pocketmine\form\Form;
+use pocketmine\form\Form\BaseForm;
 
 /**
  * Base class for a custom form. Forms are serialized to JSON data to be sent to clients.
