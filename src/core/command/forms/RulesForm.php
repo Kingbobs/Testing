@@ -5,6 +5,7 @@ declare(strict_types = 1);
 namespace core\command\forms;
 
 use core\Cryptic;
+use dktapps\pmforms\BaseForm
 use dktapps\pmforms\CustomForm;
 use dktapps\pmforms\element\Label;
 use pocketmine\utils\TextFormat;
