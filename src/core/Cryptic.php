@@ -36,6 +36,7 @@ use core\tag\TagManager;
 use core\trade\TradeManager;
 use core\update\UpdateManager;
 use core\watchdog\WatchdogManager;
+use core\command\forms\CEInfoForm
 use Exception;
 use muqsit\invmenu\InvMenuHandler;
 use pocketmine\inventory\Inventory;
