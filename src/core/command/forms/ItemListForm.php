@@ -6,7 +6,7 @@ namespace core\command\forms;
 
 use core\CrypticPlayer;
 use core\price\ShopPlace;
-use dktapps\pmform\MenuForm;
+use dktapps\pmforms\MenuForm;
 use pocketmine\Player;
 use pocketmine\utils\TextFormat;
 
