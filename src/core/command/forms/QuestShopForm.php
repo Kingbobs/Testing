@@ -13,6 +13,7 @@ use core\Cryptic;
 use core\CrypticPlayer;
 use core\translation\Translation;
 use core\translation\TranslationException;
+use dktapps\pmforms\BaseForm
 use dktapps\pmforms\MenuForm;
 use dktapps\pmforms\MenuOption;
 use pocketmine\entity\Entity;
