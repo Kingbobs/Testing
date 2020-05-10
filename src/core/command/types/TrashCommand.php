@@ -5,6 +5,7 @@ declare(strict_types = 1);
 namespace core\command\types;
 
 use core\CrypticPlayer;
+use dktapps\pmforms\BaseForm;
 use core\translation\Translation;
 use core\translation\TranslationException;
 use core\libs\muqsit\invmenu\InvMenu;
