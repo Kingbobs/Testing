@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace dktapps\pmforms\CustomForm;
+namespace dktapps\pmforms;
 
 use dktapps\pmforms\element\CustomFormElement;
 use pocketmine\form\FormValidationException;
