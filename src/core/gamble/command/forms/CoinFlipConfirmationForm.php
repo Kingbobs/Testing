@@ -5,7 +5,7 @@ namespace core\gamble\command\forms;
 use core\CrypticPlayer;
 use core\translation\Translation;
 use core\translation\TranslationException;
-use libs\form\ModalForm;
+use dktapps\pmform\ModalForm;
 use pocketmine\Player;
 use pocketmine\utils\TextFormat;
 
