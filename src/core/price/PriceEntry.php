@@ -4,8 +4,8 @@ declare(strict_types = 1);
 
 namespace core\price;
 
-use libs\form\FormIcon;
-use libs\form\MenuOption;
+use dktapps\pmform\FormIcon;
+use dktapps\pmform\MenuOption;
 use pocketmine\item\Item;
 
 class PriceEntry {
