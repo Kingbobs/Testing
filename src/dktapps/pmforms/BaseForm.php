@@ -24,9 +24,9 @@ declare(strict_types=1);
 /**
  * API for Minecraft: Bedrock custom UI (forms)
  */
-namespace dktapps\pmforms;
+namespace dktapps\pmforms\BaseForm;
 
-use pocketmine\form\Form\BaseForm;
+use pocketmine\form\Form;
 
 /**
  * Base class for a custom form. Forms are serialized to JSON data to be sent to clients.
