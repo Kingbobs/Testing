@@ -10,6 +10,7 @@ use core\price\event\ItemSellEvent;
 use core\price\PriceEntry;
 use core\translation\Translation;
 use core\translation\TranslationException;
+use dktapps\pmforms\BaseForm;
 use dktapps\pmforms\CustomForm;
 use dktapps\pmforms\CustomFormResponse;
 use dktapps\pmforms\element\Label;
