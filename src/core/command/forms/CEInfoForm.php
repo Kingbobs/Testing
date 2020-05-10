@@ -6,6 +6,7 @@ namespace core\command\forms;
 
 use core\item\enchantment\Enchantment;
 use core\item\ItemManager;
+use core\command\forms\CustomForm;
 use dktapps\pmforms\element\CustomFormElement;
 use dktapps\pmforms\element\Label;
 use pocketmine\utils\TextFormat;
