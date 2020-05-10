@@ -6,8 +6,8 @@ namespace core\command\forms;
 
 use core\item\enchantment\Enchantment;
 use core\item\ItemManager;
-use libs\form\CustomForm;
-use libs\form\element\Label;
+use dktapps\pmform\CustomFormElement;
+use dktapps\pmforms\element\Label;
 use pocketmine\utils\TextFormat;
 
 class CEInfoForm extends CustomForm {
