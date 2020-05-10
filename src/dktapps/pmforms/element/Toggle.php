@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace dktapps\pmforms\element;
+namespace dktapps\pmforms\element\Toggle;
 
 use pocketmine\form\FormValidationException;
 
