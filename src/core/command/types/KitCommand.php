@@ -7,6 +7,7 @@ namespace core\command\types;
 use core\command\forms\KitListForm;
 use core\command\forms\KitsForm;
 use core\command\utils\Command;
+use dktapps\pmforms\BaseForm;
 use core\kit\Kit;
 use core\CrypticPlayer;
 use core\translation\Translation;
