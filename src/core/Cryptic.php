@@ -9,7 +9,7 @@ use core\area\AreaException;
 use core\area\AreaManager;
 use core\clearlag\ClearLagManager;
 use core\combat\boss\BossException;
-use ore\combat\boss\tasks\SpawnWitcherBoss;
+use core\combat\boss\tasks\SpawnWitcherBoss;
 use core\combat\CombatManager;
 use core\command\CommandManager;
 use core\command\task\CheckVoteTask;
