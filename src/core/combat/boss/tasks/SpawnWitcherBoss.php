@@ -1,6 +1,6 @@
 <?php
 
-namespace core\combat\boss\tasks\SpawnWitcherBoss;
+namespace core\combat\boss\tasks;
 
 use core\combat\boss\Boss;
 use core\combat\boss\types\{Alien, Witcher, CorruptedKing};
