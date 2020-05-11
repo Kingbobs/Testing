@@ -8,6 +8,7 @@ use core\announcement\AnnouncementManager;
 use core\area\AreaException;
 use core\area\AreaManager;
 use core\clearlag\ClearLagManager;
+use core\SpawnWitcherBoss;
 use core\combat\boss\Boss;
 use core\combat\boss\BossException;
 use core\combat\CombatManager;
