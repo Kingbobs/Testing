@@ -127,7 +127,7 @@ class CrypticPlayer extends Player{
 	private $inbox;
 
 	/** @var bool */
-	private $breaking = false;
+	private $breaking = true;
 
 	/** @var Position[] */
 	private $homes = [];
@@ -1323,9 +1323,9 @@ class CrypticPlayer extends Player{
 	public function togglePVPHUD(): void {
 		$this->pvpHud = !$this->pvpHud;
 		if($this->pvpHud === false) {
-			$this->scoreboard->setScoreLine(7, "");
-			$this->scoreboard->setScoreLine(8, TextFormat::RESET . TextFormat::AQUA . "store.crypticpe.net");
-			$this->scoreboard->setScoreLine(9, TextFormat::RESET . TextFormat::AQUA . "vote.crypticpe.net");
+			$this->scoreboard->setScoreLine(7, TextFormat::RESET . TextFormat::AQUA . "Remeber To Vote");
+			$this->scoreboard->setScoreLine(8, TextFormat::RESET . TextFormat::AQUA . "store Coming Soon");
+			$this->scoreboard->setScoreLine(9, TextFormat::RESET . TextFormat::AQUA . "Invite Your Friends");
 			$this->scoreboard->removeLine(10);
 			$this->scoreboard->removeLine(11);
 		}
