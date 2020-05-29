@@ -7,6 +7,7 @@ namespace core\command\types;
 use core\command\forms\RepairForm;
 use core\command\utils\Command;
 use core\translation\Translation;
+use dktapps\pmforms\BaseForm;
 use core\translation\TranslationException;
 use pocketmine\command\CommandSender;
 use pocketmine\item\Durable;

@@ -1,6 +1,6 @@
 <?php
 
-namespace core\combat\boss\types\Alien;
+namespace core\combat\boss\types;
 
 use core\combat\boss\Boss;
 use core\item\ItemManager;

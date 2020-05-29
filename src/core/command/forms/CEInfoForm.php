@@ -2,11 +2,12 @@
 
 declare(strict_types = 1);
 
-namespace core\command\forms\CustomForm;
+namespace core\command\forms;
 
 use core\item\enchantment\Enchantment;
 use core\item\ItemManager;
-use dktapps\pmforms\CustomFormElement;
+use core\command\forms\CustomForm;
+use dktapps\pmforms\element\CustomFormElement;
 use dktapps\pmforms\element\Label;
 use pocketmine\utils\TextFormat;
 

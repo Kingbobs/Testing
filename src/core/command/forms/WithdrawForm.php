@@ -12,6 +12,7 @@ use core\item\types\XPNote;
 use core\CrypticPlayer;
 use core\translation\Translation;
 use core\translation\TranslationException;
+use dktapps\pmforms\BaseForm;
 use dktapps\pmforms\CustomForm;
 use dktapps\pmforms\CustomFormResponse;
 use dktapps\pmforms\element\Dropdown;
