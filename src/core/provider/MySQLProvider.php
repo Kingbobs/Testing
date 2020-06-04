@@ -16,4 +16,20 @@ use mysqli;
      { 
        $plugin->getLogger()->info("..."); 
      } 
-  ?>
+     $host="mysql153.secureserver.net"; 
+     $uname="abcd"; 
+     $pass="password"; 
+     $connection= mysql_connect ($host, $uname, $pass); 
+     if (! $connection) 
+     { 
+       die ("A connection to the Server could not be established!"); 
+     } 
+     else 
+     { 
+       echo "User root logged into to MySQL server ",$host," successfully."; 
+     } 
+       @mysql_connect("mysql153.secureserver.net","abcd","password") or die("Could not connect to MySQL server!"); 
+     @mysql_select_db("abcd") or die("Could not select database!"); 
+     echo "You're connected to a MySQL database!"; 
+     mysql_close(); 
+?>
