@@ -1,4 +1,4 @@
-<?php
+?>php
 
 declare(strict_types = 1);
 
@@ -14,6 +14,6 @@ use mysqli;
      $result = @mysql_create_db($db, $connection) or die(mysql_error()); 
      if ($result) 
      { 
-       echo"Database has been created!"; 
+       $plugin->getLogger()->info("..."); 
      } 
   ?> 
