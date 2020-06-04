@@ -16,4 +16,4 @@ use mysqli;
      { 
        $plugin->getLogger()->info("..."); 
      } 
-  ?> 
+  ?>
